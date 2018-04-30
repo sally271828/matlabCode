@@ -1,5 +1,6 @@
 %% this script will take in time line and timecourse tif stack to make into a movie
-clear all
+
+%clear all
 movingBarColor = 'r';
 scalingFactor = 1.2; % decrease this number to get brighter images
 
