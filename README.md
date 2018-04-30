@@ -2,7 +2,3 @@
 
 
 README file
-
-
-
-:P
