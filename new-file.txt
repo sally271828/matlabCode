@@ -1,1 +1,5 @@
 # matlabCode
+<<<<<<< HEAD
+=======
+# matlabCode
+>>>>>>> 4bd438772e33e32b6f8960d4e89db1ee5d3cb7a7
